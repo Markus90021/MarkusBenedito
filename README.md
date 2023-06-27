@@ -1,6 +1,5 @@
 Olá! Eu sou Markus Benedito
 
-- 📖 Pretendo trabalhar com front end
 - 🌱 Atualmente estou focado em aprender Python e suas tecnologias  
 
 <div>
